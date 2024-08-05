@@ -1,1 +1,2 @@
-# Hypothesis-Testing
+### Project Overview
+This project focuses on analyzing the relationship between the "Man of the Match" (MoM) award and the match outcome in the Indian Premier League (IPL). The dataset contains information about each match, including the MoM and whether the MoM is from the winning or losing team. The primary goal is to determine if there's a significant association between the MoM award and the team’s winning status using statistical methods.
